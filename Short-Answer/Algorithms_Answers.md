@@ -2,14 +2,18 @@
 
 ## Exercise I
 
-a)
+a) O(log n)
 
 
-b)
+b) O(n^2)
 
 
-c)
+c) O(n)
 
 ## Exercise II
-
-
+O(n) runtime
+for n in floors:
+    f = 0
+    egg.drop
+    if egg.break:
+        f = n
