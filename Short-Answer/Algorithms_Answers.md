@@ -14,6 +14,7 @@ c) O(n)
 O(n) runtime
 for n in floors:
     f = 0
-    egg.drop
-    if egg.break:
+    egg.drop()
+    if egg.break():
         f = n
+return f
